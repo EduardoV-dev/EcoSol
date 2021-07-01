@@ -2,6 +2,7 @@ body {
   color: rgb(51,51,51);
   font-family: Raleway, sans-serif;
   background: #f2f2f2;
+  overflow-x: hidden;
 }
 
 .hero {
